@@ -1,6 +1,8 @@
-# Vinyl Record Loyalty Program 💿
+### Vinyl Record Loyalty Program 💿
 
-Frontend: [record-sales-system-frontend](https://github.com/joaopcouto/record-sales-system-frontend)
+## Frontend: [record-sales-system-frontend](https://github.com/joaopcouto/record-sales-system-frontend)
+
+---
 
 Welcome to our Vinyl Record Loyalty Program! This project is aimed at enhancing customer engagement and boosting sales volume by implementing a loyalty program based on points.
 
